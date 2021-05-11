@@ -1,9 +1,6 @@
 # react.projects
 Projects from Tutorials
 
-# react.projects
-Projects from Tutorials
-
 ## Project 01  
 1. Create React App  
    1.1 Source: https://reactjs.org/docs/create-a-new-react-app.html#create-react-app  
